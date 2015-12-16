@@ -3,19 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javafirststart;
+package newpackage;
 
 /**
  *
  * @author olgarezchikova
  */
-public class JavaFirstStart {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hello, World");
-    }
-    
+public class Start {
+    private String color = "Red";
+    private int roomCount = 5;
 }
