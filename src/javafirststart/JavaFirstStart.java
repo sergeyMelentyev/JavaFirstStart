@@ -4,6 +4,9 @@
  * and open the template in the editor.
  */
 package javafirststart;
+import externalClass.Car;
+import externalClass.Phone;
+import JavaInherit.SecondCar;
 
 /**
  *
@@ -11,11 +14,18 @@ package javafirststart;
  */
 public class JavaFirstStart {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        System.out.println("Hello, World");
+        Car car = new Car();
+        car.setName("Vaz");
+        System.out.println(car.getName());
+        
+        Phone phoneOne = new Phone(1024, "Samsung", "GSM");
+        System.out.println(phoneOne.getName());
+        phoneOne.setName("iPhone");
+        System.out.println(phoneOne.getName());
+        
+        SecondCar secondcar = new SecondCar();
+        secondcar.drive();
     }
     
 }
