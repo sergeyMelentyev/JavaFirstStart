@@ -3,10 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package JavaInherit;
+package Toyota;
 
-public class FirstCar {
-    public void drive(){
-        System.out.println("Call from first car constructor");
-    }
+public class Rav extends Toyota {
+    
 }

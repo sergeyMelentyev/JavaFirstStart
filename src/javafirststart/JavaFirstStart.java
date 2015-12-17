@@ -4,28 +4,19 @@
  * and open the template in the editor.
  */
 package javafirststart;
-import externalClass.Car;
-import externalClass.Phone;
-import JavaInherit.SecondCar;
+import Toyota.Camry;
+import Toyota.Rav;
 
-/**
- *
- * @author olgarezchikova
- */
 public class JavaFirstStart {
 
     public static void main(String[] args) {
-        Car car = new Car();
-        car.setName("Vaz");
-        System.out.println(car.getName());
+        Camry camryCar = new Camry("Camry", 1999.5);
+        System.out.println(camryCar.getName() + " value " + camryCar.getVolume());
         
-        Phone phoneOne = new Phone(1024, "Samsung", "GSM");
-        System.out.println(phoneOne.getName());
-        phoneOne.setName("iPhone");
-        System.out.println(phoneOne.getName());
-        
-        SecondCar secondcar = new SecondCar();
-        secondcar.drive();
+        Rav ravCar = new Rav();
+        ravCar.setName("Rav4");
+        ravCar.setVolume(2499.90);
+        System.out.println(ravCar.getName() + " value " + ravCar.getVolume());
     }
     
 }
