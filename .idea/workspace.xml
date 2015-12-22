@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fdf3b4d-4ee8-45ab-bd76-8f5258167ac8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaBasics/CarClassSetGetModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaBasics/CarConstructorModel.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaFirstStart/javaBasics/CarExampleMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaFirstStart/mainStarter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/javaBasics/carExampleMain.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaBasics/BankAccountConstructorModel.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/javaBasics/CarConstructorModel.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaFirstStart/javaBasics/CarConstructorModel.class" afterPath="$PROJECT_DIR$/out/production/JavaFirstStart/javaBasics/CarConstructorModel.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaFirstStart/javaBasics/MainStarter.class" afterPath="$PROJECT_DIR$/out/production/JavaFirstStart/javaBasics/MainStarter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaBasics/mainStarter.java" afterPath="$PROJECT_DIR$/src/javaBasics/mainStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaBasics/MainStarter.java" afterPath="$PROJECT_DIR$/src/javaBasics/MainStarter.java" />
     </list>
     <ignored path="JavaFirstStart.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,32 +29,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainStarter.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainStarter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/javaBasics/MainStarter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7916667">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CarConstructorModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaBasics/CarConstructorModel.java">
+      <file leaf-file-name="BankAccountConstructorModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaBasics/BankAccountConstructorModel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CarClassSetGetModel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaBasics/CarClassSetGetModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08239701">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-              <folding />
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <element signature="method#BankAccountConstructorModel#0;class#BankAccountConstructorModel#0" expanded="false" />
+                <element signature="method#deposit#0;class#BankAccountConstructorModel#0" expanded="false" />
+                <element signature="method#withdrawal#0;class#BankAccountConstructorModel#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,8 +76,9 @@
         <option value="$PROJECT_DIR$/src/javaBasics/DataTypesJava.java" />
         <option value="$PROJECT_DIR$/src/javaBasics/CarExampleMain.java" />
         <option value="$PROJECT_DIR$/src/javaBasics/CarClassSetModel.java" />
-        <option value="$PROJECT_DIR$/src/javaBasics/MainStarter.java" />
         <option value="$PROJECT_DIR$/src/javaBasics/CarConstructorModel.java" />
+        <option value="$PROJECT_DIR$/src/javaBasics/BankAccountConstructorModel.java" />
+        <option value="$PROJECT_DIR$/src/javaBasics/MainStarter.java" />
       </list>
     </option>
   </component>
@@ -484,7 +477,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -514,7 +507,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -555,26 +548,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaBasics/MainStarter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaBasics/CarConstructorModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaBasics/CarClassSetGetModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08239701">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaBasics/BankAccountConstructorModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="method#BankAccountConstructorModel#0;class#BankAccountConstructorModel#0" expanded="false" />
+            <element signature="method#deposit#0;class#BankAccountConstructorModel#0" expanded="false" />
+            <element signature="method#withdrawal#0;class#BankAccountConstructorModel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaBasics/MainStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7916667">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding />
         </state>
       </provider>
