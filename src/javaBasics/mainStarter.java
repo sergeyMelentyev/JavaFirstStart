@@ -2,8 +2,15 @@ package javaBasics;
 
 public class MainStarter {
     public static void main(String[] args) {
-        CarExampleMain firstCar = new CarExampleMain();
+        CarClassSetGetModel firstCar = new CarClassSetGetModel();
         firstCar.setModel("Lada");
-        System.out.println(firstCar.getModel());
+        firstCar.setEngine("V6");
+        firstCar.setColor("Blue");
+        firstCar.setDoors(5);
+        firstCar.setWheels(4);
+        System.out.println("My new " +
+                firstCar.getModel() + " has " +
+                firstCar.getWheels() + " wheels"
+        );
     }
 }
