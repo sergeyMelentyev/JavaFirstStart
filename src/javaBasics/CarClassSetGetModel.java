@@ -1,12 +1,14 @@
 package javaBasics;
 
 public class CarClassSetGetModel {
+
     private int doors;
     private int wheels;
     private String model;
     private String engine;
     private String color;
 
+    // Setters for a new object
     public void setModel(String model){
         this.model = model;
     }
@@ -22,6 +24,8 @@ public class CarClassSetGetModel {
     public void setWheels(int wheels){
         this.wheels = wheels;
     }
+
+    // Getters for a new object
     public String getModel(){
         return this.model;
     }

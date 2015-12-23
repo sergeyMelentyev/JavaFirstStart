@@ -7,7 +7,7 @@ public class BankAccountConstructorModel {
     private String customerEmailAddress;
     private String customerPhoneNumber;
 
-    // Constructor
+    // Create a new constructor
     public BankAccountConstructorModel(
             int number, double balance, String customerName,
             String customerEmailAddress, String customerPhoneNumber){

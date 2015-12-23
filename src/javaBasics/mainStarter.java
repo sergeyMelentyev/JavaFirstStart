@@ -17,6 +17,6 @@ public class MainStarter {
         System.out.println("Operation is done, now " + bankAccount.getBalance() + "\n" + "\n");
 
         // Comments is here
-        
+
     }
 }
