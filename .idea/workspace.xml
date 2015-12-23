@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fdf3b4d-4ee8-45ab-bd76-8f5258167ac8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaBasics/BankAccountConstructorWithDefaultsModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaBasics/javaInheritance/InheritanceChild.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaBasics/javaInheritance/InheritanceMaster.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaFirstStart/javaBasics/BankAccountConstructorModel.class" afterPath="$PROJECT_DIR$/out/production/JavaFirstStart/javaBasics/BankAccountConstructorModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaFirstStart/javaBasics/CarClassSetGetModel.class" afterPath="$PROJECT_DIR$/out/production/JavaFirstStart/javaBasics/CarClassSetGetModel.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaFirstStart/javaBasics/MainStarter.class" afterPath="$PROJECT_DIR$/out/production/JavaFirstStart/javaBasics/MainStarter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaBasics/BankAccountConstructorModel.java" afterPath="$PROJECT_DIR$/src/javaBasics/BankAccountConstructorModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaBasics/CarClassSetGetModel.java" afterPath="$PROJECT_DIR$/src/javaBasics/CarClassSetGetModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaBasics/BankAccountConstructorWithDefaultsModel.java" afterPath="$PROJECT_DIR$/src/javaBasics/BankAccountConstructorWithDefaultsModel.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaBasics/mainStarter.java" afterPath="$PROJECT_DIR$/src/javaBasics/mainStarter.java" />
     </list>
     <ignored path="JavaFirstStart.iws" />
@@ -31,35 +30,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainStarter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaBasics/MainStarter.java">
+      <file leaf-file-name="InheritanceMaster.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javaBasics/javaInheritance/InheritanceMaster.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BankAccountConstructorModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaBasics/BankAccountConstructorModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="32" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.30212235">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding>
-                <element signature="method#deposit#0;class#BankAccountConstructorModel#0" expanded="false" />
-                <element signature="method#withdrawal#0;class#BankAccountConstructorModel#0" expanded="false" />
+                <element signature="method#InheritanceMaster#0;class#InheritanceMaster#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BankAccountConstructorWithDefaultsModel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaBasics/BankAccountConstructorWithDefaultsModel.java">
+      <file leaf-file-name="InheritanceChild.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaBasics/javaInheritance/InheritanceChild.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19225967">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,9 +80,13 @@
         <option value="$PROJECT_DIR$/src/javaBasics/CarClassSetModel.java" />
         <option value="$PROJECT_DIR$/src/javaBasics/CarConstructorModel.java" />
         <option value="$PROJECT_DIR$/src/javaBasics/CarClassSetGetModel.java" />
-        <option value="$PROJECT_DIR$/src/javaBasics/MainStarter.java" />
         <option value="$PROJECT_DIR$/src/javaBasics/BankAccountConstructorModel.java" />
         <option value="$PROJECT_DIR$/src/javaBasics/BankAccountConstructorWithDefaultsModel.java" />
+        <option value="$PROJECT_DIR$/src/javaBasics/MainStarter.java" />
+        <option value="$PROJECT_DIR$/src/javaBasics/InheritanceModel.java" />
+        <option value="$PROJECT_DIR$/src/javaBasics/InheritanceMaster.java" />
+        <option value="$PROJECT_DIR$/src/javaBasics/javaInheritance/InheritanceChild.java" />
+        <option value="$PROJECT_DIR$/src/javaBasics/javaInheritance/InheritanceMaster.java" />
       </list>
     </option>
   </component>
@@ -161,6 +156,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaFirstStart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaFirstStart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaBasics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaInheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -194,7 +211,7 @@
     <configuration default="false" name="MainStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="javaBasics.*" />
+          <option name="PATTERN" value="javaBasics.javaInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -553,14 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaBasics/DataTypesJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63171035">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaBasics/CarClassSetGetModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46691635">
@@ -569,18 +578,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaBasics/DataTypesJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63171035">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaBasics/MainStarter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.74157304">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaBasics/BankAccountConstructorModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="32" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.49438202">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="method#deposit#0;class#BankAccountConstructorModel#0" expanded="false" />
             <element signature="method#withdrawal#0;class#BankAccountConstructorModel#0" expanded="false" />
@@ -590,9 +607,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaBasics/BankAccountConstructorWithDefaultsModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19225967">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.411985">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaBasics/javaInheritance/InheritanceChild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaBasics/javaInheritance/InheritanceMaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30212235">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="method#InheritanceMaster#0;class#InheritanceMaster#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

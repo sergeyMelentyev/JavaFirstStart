@@ -16,7 +16,15 @@ public class MainStarter {
         bankAccount.withdrawal(75.1);
         System.out.println("Operation is done, now " + bankAccount.getBalance() + "\n" + "\n");
 
-        // Comments is here
+        // Create a new obj from class using constructor with default settings
+        BankAccountConstructorWithDefaultsModel bankAccountOne = new BankAccountConstructorWithDefaultsModel();
+        System.out.println(bankAccountOne.getCustomerName() + " " + bankAccountOne.getNumber());
+        BankAccountConstructorWithDefaultsModel bankAccountTwo = new BankAccountConstructorWithDefaultsModel(407, "Sergey");
+        System.out.println(bankAccountTwo.getCustomerName() + " " + bankAccountTwo.getNumber());
+        BankAccountConstructorWithDefaultsModel bankAccountThree = new BankAccountConstructorWithDefaultsModel(407028102, 100.00, "Oleg");
+        System.out.println(bankAccountThree.getCustomerName() + " " + bankAccountThree.getNumber());
+
+        // comments
 
     }
 }
